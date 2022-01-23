@@ -69,11 +69,11 @@ A mapping of the challenges faced by the traditional system and the features imp
 ------------------------------------------
 ### Contributors
 
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+Mihir Shah - [mihir-ms](https://github.com/mihir-ms)
 
 Priyam Shah- [priyamshah112](https://github.com/priyamshah112)
 
-Mihir Shah - [mihir-ms](https://github.com/mihir-ms)
+Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
 Alisasgar Haji - [Aliasgarhaji110](https://github.com/Aliasgarhaji110)
 
